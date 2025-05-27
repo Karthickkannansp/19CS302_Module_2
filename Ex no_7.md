@@ -1,5 +1,5 @@
 # EX 7 C Program to Print a right triangle star Pattern
-## DATE:
+## DATE:17/03/2025
 ## AIM:
 To write a C Program to Print a right triangle star Pattern
 
@@ -13,6 +13,9 @@ To write a C Program to Print a right triangle star Pattern
 
 ## Program:
 ```
+Program to Print a right triangle star Pattern
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h> 
 int main() { 
     int i, j, rows; 
