@@ -1,5 +1,5 @@
 # EX 6 C Program to print the string "KEYBOARD" n number of times.
-## DATE:
+## DATE:17/03/2025
 ## AIM:
 To write a C Program to print the string "KEYBOARD" n number of times.
 
@@ -12,6 +12,10 @@ To write a C Program to print the string "KEYBOARD" n number of times.
 6. Print “KEYBOARD\n”. 
 7. End.
 ## Program:
+```
+Program to print the string "KEYBOARD" n number of times
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include<stdio.h> 
 int main() 
 { 
@@ -20,7 +24,8 @@ scanf("%d",&n);
 for(i=1;i<=n;i++) 
 {printf("KEYBOARD\n"); 
 }return 0; 
-} 
+}
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/cfdb8b22-3f9d-49d8-b4da-a23c06c4a083)
