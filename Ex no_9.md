@@ -1,5 +1,5 @@
 # EX 9 C program to find the sum of odd digits using do while loop.
-## DATE:
+## DATE:17/03/2025
 ## AIM:
 To write a C program to find the sum of odd digits using do while loop.
 
@@ -18,6 +18,10 @@ To write a C program to find the sum of odd digits using do while loop.
 
 ## Program:
 ```
+program to find the sum of odd digits using do while loop
+Developed by Karthick Kannan SP
+Register number:212222060114
+
 #include <stdio.h>
 int main() {
     int num, digit, sum = 0;
