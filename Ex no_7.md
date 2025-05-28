@@ -1,5 +1,5 @@
 # EX 7 C Program to Print a right triangle star Pattern
-## DATE:17/03/2025
+## DATE:13/03/2025
 ## AIM:
 To write a C Program to Print a right triangle star Pattern
 
