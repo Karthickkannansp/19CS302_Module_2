@@ -1,5 +1,5 @@
 # EX 9 C program to find the sum of odd digits using do while loop.
-## DATE:17/03/2025
+## DATE:13/03/2025
 ## AIM:
 To write a C program to find the sum of odd digits using do while loop.
 
